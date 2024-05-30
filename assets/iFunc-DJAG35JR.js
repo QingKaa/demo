@@ -1,0 +1,1 @@
+function u(e,i){let t,o=this;return(...r)=>{t||(t=setTimeout(()=>{e.apply(o,r),t=void 0},i))}}function a(e,i=500){let t,o=this;return(...r)=>{t&&(clearTimeout(t),t=void 0),t=setTimeout(()=>{e.apply(o,r),t=void 0},i)}}export{a,u as i};
