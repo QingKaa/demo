@@ -1,1 +1,0 @@
-import{d as a,C as t,o as n,c,b as r,P as l,u as d,l as p}from"./index-BGph44bk.js";const _={class:"loadBox"},i=a({__name:"Loading",props:{color:{}},setup(o){const e=o,s=t(()=>e.color||"white");return(m,u)=>(n(),c("div",_,[r("div",{class:"loaderContantBox",style:l({color:d(s)})},null,4)]))}}),x=p(i,[["__scopeId","data-v-02322628"]]);export{x as L};
