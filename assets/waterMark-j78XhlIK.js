@@ -1,4 +1,4 @@
-import{d as b,l as p,s as v,o as _,c as y,b as k,u as M}from"./index-CXcr54sR.js";function g(e,n){const o=document.createElement("canvas"),r="150px",a="130px";o.setAttribute("width",r+"px"),o.setAttribute("height",a+"px");const t=o.getContext("2d");t.textAlign="center",t.textBaseline="middle",t.font="20px Arial",t.fillStyle="rgba(0,0,0,0.5)",t.rotate(Math.PI/180*30),t.fillText(n,50,50);const i=e.style.zIndex||1e3,x=o.toDataURL(),c=`__waterMark_instance_${Date.now()}`,m=document.querySelector(`.${c}`),l=m||document.createElement("div"),h=`
+import{d as b,l as p,s as v,o as _,c as y,b as k,u as M}from"./index-Bavfff_g.js";function g(e,n){const o=document.createElement("canvas"),r="150px",a="130px";o.setAttribute("width",r+"px"),o.setAttribute("height",a+"px");const t=o.getContext("2d");t.textAlign="center",t.textBaseline="middle",t.font="20px Arial",t.fillStyle="rgba(0,0,0,0.5)",t.rotate(Math.PI/180*30),t.fillText(n,50,50);const i=e.style.zIndex||1e3,x=o.toDataURL(),c=`__waterMark_instance_${Date.now()}`,m=document.querySelector(`.${c}`),l=m||document.createElement("div"),h=`
     position: absolute;
     top:0;
     left:0;
